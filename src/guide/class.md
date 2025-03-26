@@ -130,9 +130,9 @@ icon: hat-wizard
   
 + Intoxicating Blood：腐化状态期间每杀死一个怪物，在退出腐化后会恢复5%的生命值
 
-+ Armour Breaker：腐化状态期间，损失30%生命值后可以使用uppercut技能降低怪物防御值
++ Armour Breaker：腐化状态期间，损失 30% 生命值后可通过 Uppercut 技能降低怪物防御值
   
-+ Ragnarokkr：提高战吼的持续时间，同时给周围友军施加20%的伤害增加buff
++ Ragnarokkr：提高战吼的持续时间，同时给周围友军施加20%的伤害提升增益
 
 + Blood Pact：蓝量不够的时候可以使用血量代替蓝量施法
 
@@ -156,7 +156,7 @@ icon: hat-wizard
 
 + Thunderclap：重击技能改为在玩家位置释放并且aoe和攻速大幅提升
   
-+ Discombobulate：攻击怪物将会给怪物叠加Discombobulated，攻击该怪物会根据该debuff数值额外追加元素伤害
++ Discombobulate：攻击怪物将会给怪物叠加 Discombobulated，攻击该怪物会根据该减益数值额外追加元素伤害
 
 @tab <font color=18c7f0> Paladin 圣骑士</font>
 圣骑士能达到比另外两条技能分支更高的基础抗性，这也意味着圣骑士拥有全游戏最高的基础抗性
@@ -170,11 +170,11 @@ icon: hat-wizard
 作为代价，圣骑士的输出能力相较另两条技能树更低，如果不是为了追求终极技能的复活能力和团队增益，建议与其他分支进行适当搭配
 
 **重要技能：**
-+ Mantle of the Bovemists：使用战吼可以召唤出可以减伤70%的圣盾
++ Mantle of the Bovemists：使用战吼可以召唤出可以减伤 70% 的圣盾
 
-+ Provoke：所有受到战吼伤害的怪会在8秒内只攻击你
++ Provoke：所有受到战吼伤害的怪会在 8 秒内只攻击你
 
-+ Rejuvenating Skin：受到伤害的30%会在接下来的30秒内慢慢恢复
++ Rejuvenating Skin：受到伤害的 30% 会在接下来的 30 秒内慢慢恢复
 
 + Cleansing Breeze：净化负面状态
 
@@ -182,9 +182,9 @@ icon: hat-wizard
 
 + Radiance：范围增强友方装备的全部增益词条
 
-+ Second Chance：10分钟一次的被动复活
++ Second Chance：10 分钟一次的被动复活
 
-+ Martyr：受到致死伤害时周围所有队友3秒内无敌
++ Martyr：受到致死伤害时周围所有队友 3 秒内无敌
 
 :::
 
@@ -193,24 +193,24 @@ icon: hat-wizard
 @tab <font color=18c7f0> Riftwalker 时空行者</font>
 随着战斗的进行，时空行者会扭曲时间，变得更加强大
 
-时空行者的主要机制是给敌人叠加Winded，同时自己的技能会根据Winded叠加伤害
+时空行者的主要机制是给敌人叠加 Winded，同时自己的技能会根据 Winded 叠加伤害
 
 **说白了就是需要暖机**
 
-叠加Winded的方式有施放冰蛇/平A，同时陨石会根据Winded增加伤害
+叠加 Winded 的方式有施放冰蛇/普攻，同时陨石会根据 Winded 增加伤害
 
-在敌人没有Winded的情况下，时空行者的伤害不算很高
+在敌人没有 Winded 的情况下，时空行者的伤害不算很高
 
-但是在Winded叠满时，时空行者将会拥有非常可观的输出
+但是在 Winded 叠满时，时空行者将会拥有非常可观的输出
 
->尽管大多数时候在你叠满Winded之前就已经把怪物解决了
+>尽管大多数时候在你叠满 Winded 之前就已经把怪物解决了
 
 **重要技能：**
-+ Windsweeper：你的每次平A会给敌人叠加1层Winded
++ Windsweeper：你的每次普攻会给敌人叠加 1 层 Winded
 
-+ Breathless：陨石会根据敌人已有的Winded造成额外伤害
++ Breathless：陨石会根据敌人已有的 Winded 造成额外伤害
 
-+ Gust：冰蛇会给敌人叠加1层Winded，同时造成更多伤害
++ Gust：冰蛇会给敌人叠加 1 层 Winded ，同时造成更多伤害
   
 
 @tab <font color="grey"> Light Bender 圣光使者</font>
@@ -225,19 +225,19 @@ icon: hat-wizard
 相应的，失去了陨石能力的圣光使者也损失了大量的群伤能力，更适合单体作战或辅助队友
 
 **重要技能：**
-+ Ophanim：陨石将会转换为召唤2个光球，光球将会在你平A时一起攻击敌人，光球的每次攻击会减少20%的血量，光球可以被治疗
++ Ophanim：陨石将会转换为召唤 2 个光球，光球将会在你普攻时一起攻击敌人，光球的每次攻击消耗其 20% 生命值，但可被治疗
   
-+ Fortitude：每当在10秒内治疗相当于自身120%生命上限的血量后，下一次治疗会给范围内友军施加60%的伤害加成
++ Fortitude：每当在10秒内治疗相当于自身 120% 生命上限的血量后，下一次治疗会给范围内友方施加 60% 的伤害加成
   
-+ Orphion's Pulse：治疗将会额外施加两次，每次间隔1.5s，额外治疗拥有更高的奶量
++ Orphion's Pulse：治疗将会额外施加两次，每次间隔 1.5s，额外治疗拥有更高的回复量
 
 + Fluid Healing：水伤词条增加治疗量
 
-+ Divination：增加3个光球上限但减少伤害
++ Divination：增加 3 个光球上限但减少伤害
   
-+ Lightweaver：10秒内治疗你的血量上限50%会召唤一个以你为中心旋转的光球，造成接触伤害
++ Lightweaver：10秒内治疗你的血量上限 50% 会召唤一个以你为中心旋转的光球，造成接触伤害
 
-+ Sunflare：10秒内治疗你的血量上限300%会使你的下一个治疗技能增加队友的基础抗性
++ Sunflare：10秒内治疗你的血量上限 300% 会使你的下一个治疗技能增加队友的基础抗性
 
 @tab <font color="purple"> Arcanist 奥术法师</font>
 奥术法师完全牺牲了治疗能力，换得了特殊的"法力储备"系统，其可以做到滚雪球式地储能，能轻松达成电表倒转的同时也有极高的爆发伤害
@@ -249,11 +249,11 @@ icon: hat-wizard
 输出环境合适的条件下，奥术师能打出比弓箭手更稳定的持续爆发
 
 **重要技能：**
-+ Arcane Transfer：陨石和冰蛇每命中1个敌人，都会添加5法力进入法力储备中；治疗现在不再恢复生命，而是将法力储备的所有法力转化至蓝条中；法力转换(治疗)不再有蓝耗消耗，且无法重置重复施法惩罚
++ Arcane Transfer：陨石和冰蛇每命中 1 个敌人，都会添加 5 点法力进入法力储备中；治疗现在不再恢复生命，而是将法力储备的所有法力转化至蓝条中；法力转换(治疗)不再有蓝耗消耗，且无法重置重复施法惩罚
 
 + Psychokinesis：陨石现在改为从自身抛出
 
-+ Chaos Explosion：当后备能源达到120法力时，使用法力转换(治疗)时将会无蓝耗施放之前施放的3个技能
++ Chaos Explosion：当后备能源达到 120 点法力时，使用法力转换(治疗)时将会无蓝耗施放之前施放的3个技能
 
 + Arcane Overflow：施放法力转换(治疗)时，允许法力突破蓝条上限(至多400)，超过上限的法力将会持续自动减少
 
@@ -270,7 +270,7 @@ icon: hat-wizard
 
 其还具有速度加成，因此相当灵活
 
-需要注意的是，在没有点出Elusive之前，箭雨拥有非常大的后坐力，需要小心！
+需要注意的是，在没有点出 Elusive 之前，箭雨拥有非常大的后坐力，需要小心！
 
 同时，闪击射手拥有一个非常舒适的自动攻击的守护天使，非常适合跑图~~捏蚂蚁~~
 
@@ -290,20 +290,20 @@ icon: hat-wizard
 
 版本更新后，陷阱射手的各个技能也能召唤出不同的小动物协助输出：箭雨触发藤蔓召唤蛇，地雷爆破召唤乌鸦，释放箭盾召唤狼
 
-陷阱射手的绝大部分输出来自于自身放置的地雷，因此并不适合对付木桩型敌人，对付群体敌人时，设陷者能造成大量AOE输出
+陷阱射手的绝大部分输出来自于自身放置的地雷，因此并不适合对付木桩型敌人，对付群体敌人时，设陷者能造成大量范围伤害
 
 **重要技能：**
-+ Byrophyte Roots：箭暴对怪物造成伤害时会造成减速aoe
++ Byrophyte Roots：箭暴对怪物造成伤害时会造成减速范围伤害
 
 + Basaltic Trap：爆炸箭击中地面时会放置陷阱
 
-+ Call of the Hound：剑盾会生成自动攻击的狗
++ Call of the Hound：召唤剑盾时一并生成一只自动索敌的猎犬
 
-+ Ivyroot Mamba：Byrophyte Roots消失时生成自动攻击的蛇，攻击效果会降低敌方伤害
++ Ivyroot Mamba：Byrophyte Roots 消失时生成自动攻击的蛇，攻击效果会降低敌方伤害
 
-+ Mana Trap：你附近的陷阱会给你回蓝效果
++ Mana Trap：布下的陷阱会缓慢回复你的魔力，触发后再回复一部分
 
-+ Murder Flock：陷阱触发时会生成自动攻击的乌鸦，攻击效果会致盲
++ Murder Flock：陷阱触发时生成自动索敌的乌鸦并附带致盲
 
 + Tangled Traps：陷阱之间会产生激光对敌人造成伤害
 
@@ -323,9 +323,9 @@ icon: hat-wizard
 
 + Twain's Arc：在Focus效果为2+的时候按住shift召唤，造成极高的普攻伤害
 
-+ Homing Shots：普攻会追踪怪物并且不受地心引力影响
++ Homing Shots：普攻自动索敌并且不受重力影响
 
-+ Initiator：未造成伤害4秒以后击中怪物将增伤60%并提供+1 Focus
++ Initiator：未造成伤害 4 秒以后击中怪物将增伤60%并叠加一层专注
 
 + Coursing Restraints：爆炸箭会降低怪物防御值
 
@@ -349,7 +349,7 @@ icon: hat-wizard
 
 + Nightcloak Knife：吸收印记并生成暗影之刃对怪物造成伤害
 
-+ Satsujin：怪物有4+印记时你的下一个多重斩，背刺或粉末主动伤害翻倍
++ Satsujin：怪物有4+印记时翻倍下一次多重斩，背刺或粉末主动伤害
 
 @tab <font color=FF55FF> Trickster 幻术师 </font>
 幻术师的核心能力在于利用隐身召唤分身，再利用分身与本体共同输出以造成多次伤害 
@@ -361,13 +361,13 @@ icon: hat-wizard
 幻术师还可以将自身的负面状态转移给敌人，并且还可以通过击杀被转移了诱饵标记的敌人来获取金血资源
 
 **重要技能：**
-+ Mirror Image：召唤分身，分身存在时降低受到伤害的60%
++ Mirror Image：召唤分身，分身存在时降低受到伤害的 60%
 
-+ Delirious Gas：在烟雾弹范围内时增加40%伤害并且吸引仇恨
++ Delirious Gas：在烟雾弹范围内时伤害增加 40% 并附带嘲讽 
 
-+ Echo：分身与你同时使用所有技能，但是每个分身和本体伤害降低65%
++ Echo：分身同步释放你的技能，但所有分身与本体伤害均降低 65%
 
-+ Forbidden Art：召唤分身时额外召唤3个分身
++ Forbidden Art：召唤分身时额外召唤 3 个分身
 
 @tab <font color="grey"> Acrobat 身法刺 </font>
 身法刺并不需要隐身的机制，其核心机制在于浮空并利用茉莉印记对下方的怪物造成伤害，同时利用浮空时造成伤害恢复法力进行续航，从而达成有效循环
@@ -378,9 +378,9 @@ icon: hat-wizard
 
 + Weightless：在空中时击中怪物回蓝
 
-+ Flow State：连续击中怪物60次后短时间内大幅增加伤害
++ Flow State：连续击中怪物 60 次后短时间内大幅增加伤害
 
-+ Shurikens：使用位移技能后下一个普攻会扔出3个手里剑
++ Shurikens：使用位移技能后下一个普攻会扔出 3 个手里剑
 
 + Pirouette：位移技能撞到怪物会往上弹
 
@@ -400,13 +400,13 @@ icon: hat-wizard
 召唤师还可以同时召唤多个图腾，利用多个图腾的多倍召唤物打出更多输出。
 
 **重要技能：**
-+ Puppet Master：图腾每3秒将会召唤1只Puppet协助你战斗
++ Puppet Master：图腾每 3 秒将会召唤 1 只 Puppet 协助你战斗
 
-+ Exploding Puppets：当Puppet的剩余3秒时，它们将高速冲向敌人并且自爆
++ Exploding Puppets：当 Puppet 存在时间不足 3 秒时，它们将高速冲向敌人并自爆
 
-+ Bullwhip：使用Uproot将会给敌人打上标记，你的召唤物攻击标记敌人时会有增伤
++ Bullwhip：使用 Uproot 将会给敌人附加标记，你的召唤物攻击标记敌人时会有增伤
 
-+ Crimson Effigy：使用Uproot击打图腾时，会召唤Effigy，它们拥有更高的攻击且会将敌人向图腾拉扯
++ Crimson Effigy：使用 Uproot 击打图腾时，会召唤 Effigy，它们拥有更高的攻击且会将敌人向图腾拉扯
 
 @tab <font color=16d108> Ritualist 圣祭祀 </font>
 圣祭祀拥有召唤圣假面的能力，每个面具都会降低自身某种属性来增强另一项(移速，伤害，防御)
@@ -434,9 +434,9 @@ icon: hat-wizard
 血教徒的终极技能是一个极端的辅助技，能提供稀有的金血资源，但也会让自己变成木桩
 
 **重要技能：**
-+ Sacrificial Shrine：通过图腾牺牲生命值填充血池，使用aura会造成范围治疗效果
++ Sacrificial Shrine：通过图腾牺牲生命值填充血池，使用 aura 会造成范围治疗效果
 
-+ Blood Connection：这个游戏中最难使用但是非常有用的位移技能，在图腾范围外使用haul会传送回图腾
++ Blood Connection：这个游戏中最难使用但是非常有用的位移技能，在图腾范围外使用 haul 会传送回图腾
 
 + Vengeful Spirit：图腾范围内增加伤害
 
